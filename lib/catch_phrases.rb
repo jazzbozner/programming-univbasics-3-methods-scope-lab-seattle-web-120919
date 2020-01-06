@@ -2,4 +2,5 @@
     puts "It's-a me, Mario!"
   end
   
-  
+  def toadstool
+  end
