@@ -3,4 +3,5 @@
   end
   
   def toadstool
+    puts "Thank You Mario! But our Princess Is In Another Castle!"
   end
